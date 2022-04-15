@@ -12,9 +12,9 @@ sidebar:
     avatar: heisencat.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: mandravelisn.d1et@gmail.com
+    email: [mandravelisn.d1et@gmail.com](https://www.instagram.com/n.mandravelis_dietician/?hl=en)
     phone: 6940619918
-    Instagram: NikosMandavelisDiet
+    Instagram: n.mandravelis_dietician
 
     languages:
       - idiom: Greek
