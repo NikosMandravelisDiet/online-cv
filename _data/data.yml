@@ -39,7 +39,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a student of computer science at Ionio University since 2017.I also work in a coffeeshop in my city.
+      I gratuated from University of Thessaly at 2021.
 education:
     - degree: Computer Science
       university: Ionio University
@@ -58,10 +58,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Weight loss
         level: 57%
 
-      - name: Javascript & jQuery
+      - name: 
         level: 71%
 
       - name: Scratch
