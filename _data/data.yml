@@ -8,13 +8,14 @@ sidebar:
 
     # Profile information
     name: Mandravelis Nikos
-    tagline: Neutricionist - Dietician
+    tagline: Nutritionist - Dietician
     avatar: NikosDietProject1.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mandravelisn.d1et@gmail.com
     phone: 6940619918
-    Instagram: n.mandravelis_dietician
+    instagram: n.mandravelis_dietician
+    linkedin: Nikos Mandravelis
 
     languages:
       - idiom: Greek
@@ -29,15 +30,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I gratuated from University of Thessaly at 2021.
+      I gratuated from University of Thessaly at 2021.I practiced my science for 6 months at a professional dietician office. Since then i work as free-lance dietician. I am very interested on the way that nutrition is affected by different diseases and our state of psychology> 
 education:
-    - degree: Bsc Nutricion and Dietics
+    - degree: Bsc Nutrition and Dietics
       university: Thessaly University
       time: 2014 - 2021
 experiences:
     - role: Dietician Assistant
       time: 2018 - 2019 
-    - role: In-person diets 
+    - role: In Person Diets 
       time: 2021 - Present
     - role: Online Dieting
       time: 2021 - Present
