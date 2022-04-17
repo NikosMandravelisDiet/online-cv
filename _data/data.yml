@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: mandravelisn.d1et@gmail.com
     phone: 6940619918
-    Instagram: [n.mandravelis_dietician](https://www.instagram.com/n.mandravelis_dietician/?hl=en)
+    Instagram: n.mandravelis_dietician
 
     languages:
       - idiom: Greek
@@ -25,53 +25,42 @@ sidebar:
 
       - idiom: Italian
         level: Amateur
-
-    interests:
-      - item: Shooting
-        link:
-
-      - item: Reading
-        link:
-
-      - item: Driving
-        link:
-
+        
 career-profile:
     title: Career Profile
     summary: |
       I gratuated from University of Thessaly at 2021.
 education:
-    - degree: Computer Science
-      university: Ionio University
-      time: 2017 - Present
+    - degree: Bsc Nutricion and Dietics
+      university: Thessaly University
+      time: 2014 - 2021
 experiences:
-    - role: E-shop Designer
+    - role: Dietician Assistant
+      time: 2018 - 2019 
+    - role: In-person diets 
       time: 2021 - Present
-      details: |
-        I can build and create a website or an E-shop via Wordpress.I made my first on e-shop as acquittal work for my university.
-    - role: Game Creator
-      time: 2019 - Present
-      details: |
-       I made 2 games by using Scratch and Java.First one was 3 years ago and the second one a few months ago.
+    - role: Online Dieting
+      time: 2021 - Present
+
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Weight loss
-        level: 57%
+      - name: Weight Loss
+        level: 100%
 
-      - name: 
-        level: 71%
+      - name: Fat Measuring
+        level: 100%
 
-      - name: Scratch
-        level: 97%
+      - name: Muscle Mass
+        level: 100%
 
-      - name: Wordpress
-        level: 95%
+      - name: BMR-Measuring
+        level: 100%
 
-      - name: Sketch & Photoshop
-        level: 61%
+      - name: Body Water Measuring
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
